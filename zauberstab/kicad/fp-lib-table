@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name apa102x8)(type KiCad)(uri "$(KIPRJMOD)/apa102x8.pretty")(options "")(descr ""))
+  (lib (name kurzhubtaster)(type KiCad)(uri "$(KIPRJMOD)/kurzhubtaster.pretty")(options "")(descr ""))
+  (lib (name 2xAAAbattholder)(type KiCad)(uri "$(KIPRJMOD)/2xAAAbattholder.pretty")(options "")(descr ""))
+)

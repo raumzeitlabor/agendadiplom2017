@@ -1,6 +1,6 @@
-(module motorholder (layer F.Cu) (tedit 58A75DE8)
+(module motorholder (layer F.Cu) (tedit 58B8245A)
   (attr virtual)
-  (fp_text reference P2 (at 0 0) (layer F.SilkS)
+  (fp_text reference M** (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value Motor (at 0 3.81) (layer F.Fab)
