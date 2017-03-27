@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name mybattery)(type KiCad)(uri "$(KIPRJMOD)/mybattery.pretty")(options "")(descr ""))
   (lib (name motorholder)(type KiCad)(uri "$(KIPRJMOD)/motorholder.pretty")(options "")(descr ""))
+  (lib (name BC337)(type KiCad)(uri "$(KIPRJMOD)/BC337.pretty")(options "")(descr ""))
+  (lib (name schiebeschalter)(type KiCad)(uri "$(KIPRJMOD)/schiebeschalter.pretty")(options "")(descr ""))
 )

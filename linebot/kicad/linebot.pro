@@ -1,4 +1,4 @@
-update=Donnerstag, 02. März 2017 'u00' 15:00:37
+update=Dienstag, 07. März 2017 'u45' 10:45:16
 version=1
 last_client=kicad
 [pcbnew]
@@ -69,3 +69,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=phototransistor
+LibName31=BC337
+LibName32=switch
